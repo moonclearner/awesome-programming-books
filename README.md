@@ -111,7 +111,7 @@
 *   《[你不知道的 JavaScript（中）](https://www.amazon.cn/gp/product/B01LMYXGAI/ref=pd_sim_14_1?ie=UTF8&psc=1&refRID=4JRMK10EFJQHDAG8MCZF)》
 *   《[JavaScript 权威指南（第6版）](https://www.amazon.cn/gp/product/B007VISQ1Y/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B007VISQ1Y&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[JavaScript 语言精粹（修订版）](https://www.amazon.cn/gp/product/B0097CON2S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0097CON2S&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[JavaScript DOM编程艺术 （第2版）](https://www.amazon.cn/gp/product/B004VJM5KE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004VJM5KE&amp;linkCode=as2&amp;tag=vastwork-23)》
+* [x] 《[JavaScript DOM编程艺术 （第2版）](https://www.amazon.cn/gp/product/B004VJM5KE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004VJM5KE&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[JavaScript 高级程序设计（第3版）](https://www.amazon.cn/gp/product/B007OQQVMY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B007OQQVMY&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[JavaScript 异步编程：设计快速响应的网络应用](https://www.amazon.cn/gp/product/B00JVLEYY2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00JVLEYY2&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[JavaScript设计模式与开发实践](https://www.amazon.cn/gp/product/B00XJ2AU3S/ref=pd_bxgy_14_img_3?ie=UTF8&psc=1&refRID=4JRMK10EFJQHDAG8MCZF)》
